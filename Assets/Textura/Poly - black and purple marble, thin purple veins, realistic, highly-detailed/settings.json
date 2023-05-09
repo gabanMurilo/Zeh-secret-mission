@@ -1,0 +1,22 @@
+{
+  "prompt_text": "black and purple marble, thin purple veins, realistic, highly-detailed",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/0481b4e7-a632-40b7-9156-c433fd8f66f9.png",
+    "patch_id": "PdwqBF9Mdh"
+  },
+  "seamless_prompt_text": "black and purple marble, thin purple veins, realistic, highly-detailed",
+  "seamless_patch_scale": 0.66,
+  "upscale_prompt_text": "black and purple marble, thin purple veins, realistic, highly-detailed",
+  "is_seamless": true,
+  "pbr_mode": "polished",
+  "pbr_generate_color": false,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": false,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
